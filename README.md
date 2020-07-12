@@ -1,1 +1,1 @@
-# Coursera_capstoneWeek1
+# Applied Data Science Specialization 
